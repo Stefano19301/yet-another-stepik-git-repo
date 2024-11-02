@@ -1,1 +1,2 @@
-"# yet-another-stepik-git-repo" 
+# yet-another-stepik-git-repo
+Я использую проверку, отлавливая исключение, которое выкинет WebDriver, если не найдет элемента
